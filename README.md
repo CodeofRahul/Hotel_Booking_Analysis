@@ -65,3 +65,26 @@ the cancellation.
 The pie chart shows the top 10 countries with reservations cancelation. Portugal has the highest 
 number of cancellations, with approximately 70.28% of all reservations being cancelled.
 
+![Reservation by market segment](https://github.com/CodeofRahul/Hotel_Booking_Analysis_PowerBi/assets/143285125/3e18e251-e5e5-4880-8280-3f857c0088ed)
+
+If we analysis the area from where guests are visiting the hotels and making reservations. So, we 
+can see that around 47% reservation come from online travel agents, 20.32% come from offline 
+travel agents. 10.47% clients make their reservation offline by visiting hotels.
+
+![Average daily rate](https://github.com/CodeofRahul/Hotel_Booking_Analysis_PowerBi/assets/143285125/d235dd43-e24c-424c-9907-c19b7fdc58d1)
+
+As seen in the chart, reservations are cancelled when average daily rate is higher than when it is 
+not cancelled. It clearly proves all the above analysis, that the higher price leads to higher 
+cancellation.
+
+## Suggestions
+
+1. Cancellation rates increase as the price increases. To prevent reservation cancellations, 
+    hotels can consider adjusting their prices for specific hotels based on locations. They can also 
+    offer discounts to attract more customers.
+2. Since the resort hotel has a higher ratio of cancellations compared to city hotels, they should 
+    consider offering reasonable discounts on room prices during weekends or holidays.
+3. In the month of January, hotels can start campaigns or marketing with a reasonable amount 
+    to increase their revenue as the cancellation is the highest in this month.
+4. They can also enhance the quality of their hotels and services, primarily in Portugal to reduce 
+    the cancellation rate.

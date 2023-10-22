@@ -88,3 +88,7 @@ cancellation.
     to increase their revenue as the cancellation is the highest in this month.
 4. They can also enhance the quality of their hotels and services, primarily in Portugal to reduce 
     the cancellation rate.
+
+
+
+**Dashboard link :-** https://www.novypro.com/project/hotel-booking-analysis-18
